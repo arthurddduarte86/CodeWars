@@ -16,7 +16,7 @@ or the end of the sentence!
 # Smash Words
 def smash(words)
     return words.join(" ")
-  end
+end
   
   
 def smash(words)
