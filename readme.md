@@ -6,6 +6,6 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 # Kata
 ## Rank:8 kyu
 
-* Multiply  `[multiply.py](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)[ Site CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)`
-`[multiply.rb](https://github.com/arthurddduarte86/CodeWars/blob/main/Code-Rb/Multiply.rb)[Site CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004/train/ruby)`
+* `Multiply`     [multiply.py](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)[ Site CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)
+[multiply.rb](https://github.com/arthurddduarte86/CodeWars/blob/main/Code-Rb/Multiply.rb)[Site CodeWars](https://www.codewars.com/kata/50654ddff44f800200000004/train/ruby)
 
