@@ -6,7 +6,7 @@ def multiply(a, b):
     return a * b
 
 #Sample Tests
-"""
+'''
 import codewars_test as test
 from solution import multiply
 
@@ -16,4 +16,4 @@ def fixed_tests():
     def basic_test_cases():
         test.assert_equals(multiply(2,1), 2)
         
-"""
+'''
