@@ -9,7 +9,7 @@ Note: if there is nothing to sum, the sum is default to 0.
 
 =end
 # Minha solução
-#arr = [-9, 7, 100, -12, -23, 0]  #TESTE
+#arr = [-9, 7, 100, -12, -23, 0]   #TESTE  
 #
 def positive_sum(arr)
     # your code here
@@ -20,5 +20,6 @@ def positive_sum(arr)
       end
     end
     return soma
-  end 
-
+end 
+#
+#print positive_sum(arr)   #TESTE
