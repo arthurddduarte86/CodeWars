@@ -12,7 +12,14 @@ Your points are not included in the array of your class's points. For calculatin
 '''
 
 #Solution
-
+#
+import numpy as np
+def better_than_average(class_points, your_points):
+    class_points.append(your_points)
+    avg = np.average(class_points)
+    return (True if your_points > avg else False) 
+#
+#
 def better_than_average(class_points, your_points):
     # Your code here
     class_points.append(your_points)
@@ -20,8 +27,8 @@ def better_than_average(class_points, your_points):
         return True
     else: 
         return False
-    
-
+#    
+#
 import statistics
 def better_than_average(class_points, your_points):
     # Your code here
@@ -30,7 +37,8 @@ def better_than_average(class_points, your_points):
         return True
     else: 
         return False
-    
+#
+#    
 from statistics import mean
 def better_than_average(class_points, your_points):
     # Your code here
