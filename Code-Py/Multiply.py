@@ -4,7 +4,11 @@
 #Solution
 def multiply(a, b):
     return a * b
-
+#
+#
+multiply = lambda a,b: a * b
+#
+#
 #Sample Tests
 '''
 import codewars_test as test
