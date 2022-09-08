@@ -9,3 +9,8 @@ def square_sum(numbers):
     resultado = 0
     for x in numbers: resultado = resultado + x**2
     return resultado
+#
+#
+def square_sum(numbers): return sum(x**2 for x in numbers)
+#
+#

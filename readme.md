@@ -15,3 +15,7 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Square(n) Sum` || [  Square(n)_Sum.py  ](https://github.com/arthurddduarte86/CodeWars-Python/blob/main/Code-Py/Square(n)_Sum.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/515e271a311df0350d00000f/train/python)
 * `Beginner Series #4 Cockroach` || [  Beginner_Series_#4_Cockroach.py  ](https://github.com/arthurddduarte86/CodeWars-Python/blob/main/Code-Py/Beginner_Series_%234_Cockroach.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/55fab1ffda3e2e44f00000c6/train/python)
 * `Removing Elements` || [  Removing_Elements.py  ](https://github.com/arthurddduarte86/CodeWars-Python/blob/main/Code-Py/Removing_Elements.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/python)
+* `MakeUpperCase` || [  MakeUpperCase.py  ]()  Site [CodeWars, py  ](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/python)
+* `Calculate BMI` || [  Calculate_BMI.py  ]()  Site [CodeWars, py  ](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/python)
+* `Switch it Up!` || [  Switch_it_Up.py  ]()  Site [CodeWars, py  ](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/python)
+* `Keep Hydrated!` || [  Keep_Hydrated.py  ]()  Site [CodeWars, py  ](https://www.codewars.com/kata/582cb0224e56e068d800003c/train/python)
