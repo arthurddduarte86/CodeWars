@@ -18,4 +18,4 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `MakeUpperCase` || [  MakeUpperCase.py  ](https://github.com/arthurddduarte86/CodeWars-Python/blob/main/Code-Py/MakeUpperCase.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/python)
 * `Calculate BMI` || [  Calculate_BMI.py  ](https://github.com/arthurddduarte86/CodeWars-Python/blob/main/Code-Py/Calculate_BMI.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/python)
 * `Switch it Up!` || [  Switch_it_Up.py  ](https://github.com/arthurddduarte86/CodeWars-Python/blob/main/Code-Py/Switch_it_Up.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/python)
-* `Keep Hydrated!` || [  Keep_Hydrated.py  ](https://github.com/arthurddduarte86/CodeWars-Python/blob/main/Code-Py/Keep_Hydrated.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/582cb0224e56e068d800003c/train/python)
+* `Keep Hydrated!` || [  Keep_Hydrated.py  ](Code-Py/Keep_Hydrated.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/582cb0224e56e068d800003c/train/python)
