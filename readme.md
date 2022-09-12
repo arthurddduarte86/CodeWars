@@ -22,5 +22,5 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Convert boolean values to strings 'Yes' or 'No'` || [  `Convert_boolean_values_to_strings.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/53369039d7ab3ac506000467/train/python)
 * `Even or Odd` || [  `Even_or_Odd.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python)
 * `Grasshopper - Messi goals function` || [  `Grasshopper-Messi_goals_function.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55f73be6e12baaa5900000d4/train/python)
-* `A Needle in the Haystack` || [  `A_Needle_in_the_Haystack.py`  ] Site [CodeWars, py  ] (https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/python)
+* `A Needle in the Haystack` || [  `A_Needle_in_the_Haystack.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/python)
 * `Returning Strings` || [  `Returning_Strings.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/python)
