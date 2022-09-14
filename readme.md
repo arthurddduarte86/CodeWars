@@ -24,3 +24,5 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Grasshopper - Messi goals function` || [  `Grasshopper-Messi_goals_function.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55f73be6e12baaa5900000d4/train/python)
 * `A Needle in the Haystack` || [  `A_Needle_in_the_Haystack.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/python)
 * `Returning Strings` || [  `Returning_Strings.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/python)
+* `Remove exclamation marks` || [  `Remove_exclamation_marks.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/python)
+* `Reversed Words` || [  `reversed_words.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/python)
