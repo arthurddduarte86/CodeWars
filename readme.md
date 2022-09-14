@@ -26,3 +26,4 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Returning Strings` || [  `Returning_Strings.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/python)
 * `Remove exclamation marks` || [  `Remove_exclamation_marks.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/python)
 * `Reversed Words` || [  `reversed_words.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/python)
+* `Jaden Casing Strings` || [  `Jaden_Casing_Strings.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/python)
