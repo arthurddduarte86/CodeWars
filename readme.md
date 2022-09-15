@@ -27,3 +27,5 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Remove exclamation marks` || [  `Remove_exclamation_marks.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/python)
 * `Reversed Words` || [  `reversed_words.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/python)
 * `Jaden Casing Strings` || [  `Jaden_Casing_Strings.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/python)
+* `Counting sheep...` || [  `Counting_sheep.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54edbc7200b811e956000556/train/python)
+* `Mumbling` || [  `Mumbling.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/python)
