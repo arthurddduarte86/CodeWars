@@ -20,3 +20,14 @@ def accum(s):
         i += 1
     new = new.strip().replace(" ", "-")
     return new
+#
+#
+#
+def accum(s):
+    msg = ""
+    counter=0
+    for letter in s:
+        
+        msg = msg + letter.upper() + (letter.lower() * counter)+"-"
+        counter +=1
+    return msg[:-1]
