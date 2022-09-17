@@ -10,6 +10,11 @@ The parameter of accum is a string which includes only letters from a..z and A..
 '''
 #
 #
+# Código abaixo é o melhor.
+def accum(s):
+    return "-".join(letter.upper() + letter.lower()*counter for counter, letter in enumerate(s))
+#
+#
 #
 def accum(s): 
     s = s.upper() # ABCD
