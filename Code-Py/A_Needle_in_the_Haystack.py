@@ -14,4 +14,10 @@ Example(Input --> Output)
 
 # minha solução
 
-def find_needle(haystack): return ("found the needle at position %i" % haystack.index("needle"))
+def find_needle(haystack): 
+    return ("found the needle at position %i" % haystack.index("needle"))
+#
+#
+#
+def find_needle(haystack): 
+    return "found the needle at position {}".format(haystack.index("needle"))
