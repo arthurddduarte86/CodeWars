@@ -12,7 +12,7 @@ or the end of the sentence!
 '''
 # Solutions
 # Abaixo coloquei algumas possibilidades de soluções
-
+#
 
 def smash(words):
     frase = (" ".join(words))
