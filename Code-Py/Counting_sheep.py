@@ -19,5 +19,5 @@ Hint: Don't forget to check for bad values like null/undefined
 #
 def count_sheeps(sheep):
     return sheep.count(True)
-
-
+#
+#
