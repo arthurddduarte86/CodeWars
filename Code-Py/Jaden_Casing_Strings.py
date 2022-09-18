@@ -15,3 +15,17 @@ def to_jaden_case(string):
     string = string.split(" ")
     string = " ".join(word[0].upper() + word[1:].lower() for word in string)
     return string
+#
+#
+#
+
+def to_jaden_case(string):
+    newString = string.split()
+    print(newString)
+    counter = 0
+    for counter, word in enumerate(newString):
+    	newString[counter] = word.capitalize()
+        
+    return " ".join(newString)
+    
+
