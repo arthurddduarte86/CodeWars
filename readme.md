@@ -29,3 +29,5 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Jaden Casing Strings` || [  `Jaden_Casing_Strings.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5390bac347d09b7da40006f6/train/python)
 * `Counting sheep...` || [  `Counting_sheep.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54edbc7200b811e956000556/train/python)
 * `Mumbling` || [  `Mumbling.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/python)
+* `Testing 1-2-3` || [  `Testing_123.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/train/python)
+* `Vowel Count` || [  `vowel_count.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python)
