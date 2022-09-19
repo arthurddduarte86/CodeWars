@@ -17,7 +17,6 @@ def remove_every_other(my_list):
         x+=1
     return newarray
 #
-#
 # Outras possiveis soluções
 #
 #

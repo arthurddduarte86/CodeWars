@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 '''
 Description:
 Make a simple function called greet that returns the most-famous "hello world!".
@@ -6,3 +7,13 @@ Make a simple function called greet that returns the most-famous "hello world!".
 def greet ():
     return "hello world!"
 #
+=======
+'''
+Description:
+Make a simple function called greet that returns the most-famous "hello world!".
+'''
+# Write a function `greet` that returns "hello world!"
+def greet ():
+    return "hello world!"
+#
+>>>>>>> refs/remotes/origin/main
