@@ -32,3 +32,6 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Testing 1-2-3` || [  `Testing_123.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/train/python)
 * `Vowel Count` || [  `vowel_count.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python)
 * `Complementary DNA` || [  `Complementary_DNA.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/python)
+* `Square Every Digit` || [  `Square_Every_Digit.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/546e2562b03326a88e000020/train/python)
+* `Binary Addition` || [  `Binary_Addition.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/551f37452ff852b7bd000139/train/python)
+* `Grasshopper - Grade book` || [  `Grasshopper-Grade_book.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/python)
