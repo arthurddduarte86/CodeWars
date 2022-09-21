@@ -35,3 +35,5 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Square Every Digit` || [  `Square_Every_Digit.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/546e2562b03326a88e000020/train/python)
 * `Binary Addition` || [  `Binary_Addition.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/551f37452ff852b7bd000139/train/python)
 * `Grasshopper - Grade book` || [  `Grasshopper-Grade_book.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/python)
+* `Fake Binary` || [  `fake_binary.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/python)
+* `List Filtering` || [  `List_Filtering`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)
