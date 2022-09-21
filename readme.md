@@ -4,7 +4,7 @@
 Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem Python na plataforma CodeWars.
 
 # Kata
-## Rank:8 kyu
+## Rank:8 kyu  and  Rank:7 kyu
 
 * `Multiply` || [  multiply.py  ](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)
 * `Sentence Smash` || [  Sentence_Smash.py  ](https://github.com/arthurddduarte86/CodeWars/blob/main/Code-Py/Sentence_Smash.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/python)
@@ -36,5 +36,8 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Binary Addition` || [  `Binary_Addition.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/551f37452ff852b7bd000139/train/python)
 * `Grasshopper - Grade book` || [  `Grasshopper-Grade_book.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/python)
 * `Fake Binary` || [  `fake_binary.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/python)
-* `List Filtering` || [  `List_Filtering`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)
+* `List Filtering` || [  `List_Filtering.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/python)
 * `Parse nice int from char problem` || [  `Parse_nice_int_from_char_problem.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1/train/python)
+* `altERnaTIng cAsE <=> ALTerNAtiNG CaSe` || [  `altERnaTIng_cAsE_ALTerNAtiNG_CaSe.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/56efc695740d30f963000557/train/python)
+* `Convert number to reversed array of digits` || [`Convert_number_to_reversed_array_of_digits.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/python)
+
