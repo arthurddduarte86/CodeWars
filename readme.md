@@ -41,3 +41,8 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `altERnaTIng cAsE <=> ALTerNAtiNG CaSe` || [  `altERnaTIng_cAsE_ALTerNAtiNG_CaSe.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/56efc695740d30f963000557/train/python)
 * `Convert number to reversed array of digits` || [`Convert_number_to_reversed_array_of_digits.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/python)
 
+* `Find the next perfect square!` || [`Find_the_next_perfect_square.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/56269eb78ad2e4ced1000013/train/python)
+
+* `Ones and Zeros` || [`Ones_and_Zeros.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/python)
+
+* `Is he gonna survive?` || [`Is_he_gonna_survive.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/python)
