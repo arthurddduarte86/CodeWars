@@ -46,3 +46,7 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Ones and Zeros` || [`Ones_and_Zeros.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/train/python)
 
 * `Is he gonna survive?` || [`Is_he_gonna_survive.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/python)
+
+* `Opposites Attract` || [`Opposites_Attract.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/555086d53eac039a2a000083/train/python)
+
+* `Beginner Series #2 Clock` || [`Beginner_Series_2_Clock.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/python)
