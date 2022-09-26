@@ -48,3 +48,4 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `DNA to RNA Conversion` || [`DNA_to_RNA_Conversion.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5556282156230d0e5e000089/train/python)
 * `Find the odd int` || [`Find_the_odd_int.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)
 * `You're a square!` || [`You're_a_square.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
+* `RNA to Protein Sequence Translation` || [`RNA_to_Protein_Sequence_Translation.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/555a03f259e2d1788c000077/train/python)
