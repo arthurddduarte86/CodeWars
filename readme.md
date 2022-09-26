@@ -45,3 +45,6 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Is he gonna survive?` || [`Is_he_gonna_survive.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/python)
 * `Opposites Attract` || [`Opposites_Attract.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/555086d53eac039a2a000083/train/python)
 * `Beginner Series #2 Clock` || [`Beginner_Series_2_Clock.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/python)
+* `DNA to RNA Conversion` || [`DNA_to_RNA_Conversion.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5556282156230d0e5e000089/train/python)
+* `Find the odd int` || [`Find_the_odd_int.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)
+* `You're a square!` || [`You're_a_square.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
