@@ -49,11 +49,7 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Find the odd int` || [`Find_the_odd_int.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54da5a58ea159efa38000836/train/python)
 * `You're a square!` || [`You're_a_square.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/python)
 * `RNA to Protein Sequence Translation` || [`RNA_to_Protein_Sequence_Translation.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/555a03f259e2d1788c000077/train/python)
-
 * `Convert a String to a Number!` || [`Convert_a_String_to_a_Number.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/python)
-
 * `Remove First and Last Character` || [`Remove_First_and_Last_Character.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0/train/python)
-
 * `Sum Arrays` || [`Sum_Arrays.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/python)
-
 * `Return Negative` || [`Return_Negative.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/53dc54212259ed3d4f00071c/train/python)
