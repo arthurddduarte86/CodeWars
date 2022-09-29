@@ -59,3 +59,12 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Reversed sequence` || [`Reversed_sequence.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/python)
 * `Who likes it?` || [`Who_likes_it.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python)
 * `Categorize New Member` || [`Categorize_New_Member.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/python)
+
+* `Tribonacci Sequence` || [`Tribonacci_Sequence.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/556deca17c58da83c00002db/train/python)
+
+
+* `Abbreviate a Two Word Name` || [`Abbreviate_a_Two_Word_Name.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python)
+
+* `Bouncing Balls` || [`Bouncing_Balls.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/python)
+
+* `Friend or Foe?` || [`Friend_or_Foe.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55b42574ff091733d900002f/train/python)
