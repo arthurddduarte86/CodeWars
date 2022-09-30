@@ -61,10 +61,7 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Categorize New Member` || [`Categorize_New_Member.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/python)
 
 * `Tribonacci Sequence` || [`Tribonacci_Sequence.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/556deca17c58da83c00002db/train/python)
-
-
 * `Abbreviate a Two Word Name` || [`Abbreviate_a_Two_Word_Name.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python)
-
 * `Bouncing Balls` || [`Bouncing_Balls.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/python)
-
 * `Friend or Foe?` || [`Friend_or_Foe.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55b42574ff091733d900002f/train/python)
+* `Find the unique number` || [`Find_the_unique_number.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python)
