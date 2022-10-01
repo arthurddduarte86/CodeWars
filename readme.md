@@ -3,8 +3,11 @@
 ## Sobre
 Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem Python na plataforma CodeWars.
 
+Welcome, here you find code challenges for Python language from CodeWars.com
+
 # Kata
-## Rank:8 kyu  and  Rank:7 kyu
+## Rank:8 kyu  Rank:7 kyu  Rank:6 kyu   
+**Total**: +65
 
 * `Multiply` || [  multiply.py  ](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)
 * `Sentence Smash` || [  Sentence_Smash.py  ](https://github.com/arthurddduarte86/CodeWars/blob/main/Code-Py/Sentence_Smash.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/python)
@@ -59,7 +62,6 @@ Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem
 * `Reversed sequence` || [`Reversed_sequence.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/python)
 * `Who likes it?` || [`Who_likes_it.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python)
 * `Categorize New Member` || [`Categorize_New_Member.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/python)
-
 * `Tribonacci Sequence` || [`Tribonacci_Sequence.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/556deca17c58da83c00002db/train/python)
 * `Abbreviate a Two Word Name` || [`Abbreviate_a_Two_Word_Name.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/python)
 * `Bouncing Balls` || [`Bouncing_Balls.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/python)
