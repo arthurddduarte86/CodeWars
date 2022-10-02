@@ -1,5 +1,7 @@
 # Readme com informações e catálogo do meu processo na plataforma CodeWars para Python
 
+<a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/large" alt="bash"/> </a>
+
 ## Sobre
 Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem Python na plataforma CodeWars.
 
@@ -67,3 +69,6 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Bouncing Balls` || [`Bouncing_Balls.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/train/python)
 * `Friend or Foe?` || [`Friend_or_Foe.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/55b42574ff091733d900002f/train/python)
 * `Find the unique number` || [`Find_the_unique_number.py`  ] Site [CodeWars, py  ](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/train/python)
+* `Odd or Even?` || [`Odd_or_Even.py`  ](/Code-Py/Odd_or_Even.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5949481f86420f59480000e7/train/python)
+* `The Feast of Many Beasts` || [`The_Feast_of_Many_Beasts.py`  ](/Code-Py/The_Feast_of_Many_Beasts.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5aa736a455f906981800360d/train/python)
+* `Grasshopper - Summation` || [`Grasshopper_Summation.py`  ](/Code-Py/Grasshopper_Summation.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5aa736a455f906981800360d/train/python)
