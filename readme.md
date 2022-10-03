@@ -72,3 +72,14 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Odd or Even?` || [`Odd_or_Even.py`  ](/Code-Py/Odd_or_Even.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5949481f86420f59480000e7/train/python)
 * `The Feast of Many Beasts` || [`The_Feast_of_Many_Beasts.py`  ](/Code-Py/The_Feast_of_Many_Beasts.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5aa736a455f906981800360d/train/python)
 * `Grasshopper - Summation` || [`Grasshopper_Summation.py`  ](/Code-Py/Grasshopper_Summation.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5aa736a455f906981800360d/train/python)
+
+
+* `Double Char` || [`Double_Char.py`  ](/Code-Py/Double_Char.py) Site [CodeWars, py  ](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/python)
+
+* `Break camelCase` || [`Break_camelCase.py`  ](/Code-Py/Break_camelCase.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5208f99aee097e6552000148/train/python)
+
+* `Transportation on vacation` || [`Transportation_on_vacation.py`  ](/Code-Py/Transportation_on_vacation.py) Site [CodeWars, py  ](https://www.codewars.com/kata/568d0dd208ee69389d000016/train/python)
+
+* `Find Maximum and Minimum Values of a List` || [`Find_Maximum_and_Minimum_Values_of_a_List.py`  ](/Code-Py/Find_Maximum_and_Minimum_Values_of_a_List.py) Site [CodeWars, py  ](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/python)
+
+
