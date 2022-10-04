@@ -82,4 +82,5 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Find Maximum and Minimum Values of a List` || [`Find_Maximum_and_Minimum_Values_of_a_List.py`  ](/Code-Py/Find_Maximum_and_Minimum_Values_of_a_List.py) Site [CodeWars, py  ](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/python)
 
+* `Keep up the hoop` || [`Keep_up_the_hoop.py`  ](/Code-Py/Keep_up_the_hoop.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/train/python)
 
