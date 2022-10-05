@@ -9,7 +9,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 # Kata
 ## Rank:8 kyu  Rank:7 kyu  Rank:6 kyu   
-**Total**: +65
+**Total**: +80
 
 * `Multiply` || [  multiply.py  ](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)
 * `Sentence Smash` || [  Sentence_Smash.py  ](https://github.com/arthurddduarte86/CodeWars/blob/main/Code-Py/Sentence_Smash.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/python)
@@ -84,5 +84,9 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Find the smallest integer in the array` || [`Find_the_smallest_integer_in_the_array.py`  ](/Code-Py/Count_by_X.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/python)
 * `L1: Set Alarm` || [`L1_Set_Alarm.py`  ](/Code-Py/L1_Set_Alarm.py) Site [CodeWars, py  ](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/python)
 * `Powers of 2` || [`Powers_of_2.py`  ](/Code-Py/Count_by_X.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/python)
-
+* `The highest profit wins!` || [`The_highest_profit_wins.py`  ](/Code-Py/The_highest_profit_wins.py) Site [CodeWars, py  ](https://www.codewars.com/kata/559590633066759614000063/train/python)
+* `Is this a triangle?` || [`Is_this_a_triangle.py`  ](/Code-Py/Is_this_a_triangle.py) Site [CodeWars, py  ](https://www.codewars.com/kata/56606694ec01347ce800001b/train/python)
+* `String repeat` || [`String_repeat.py`  ](/Code-Py/String_repeat.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/python)
+* `Is it a palindrome?` || [`Is_it_a_palindrome.py`  ](/Code-Py/Is_it_a_palindrome.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/python)
+* `Simple multiplication` || [`Simple_multiplication.py`  ](/Code-Py/Simple_multiplication.py) Site [CodeWars, py  ](https://www.codewars.com/kata/583710ccaa6717322c000105/train/python)
 
