@@ -1,6 +1,6 @@
 # Readme com informações e catálogo do meu processo na plataforma CodeWars para Python
 
-<a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/large" alt="bash"/> </a>
+<a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/small" alt="bash"/> </a>
 
 ## Sobre
 Sejam bem vindos, este é o catálogo de exercícios e códigos para a linguagem Python na plataforma CodeWars.
@@ -72,15 +72,17 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Odd or Even?` || [`Odd_or_Even.py`  ](/Code-Py/Odd_or_Even.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5949481f86420f59480000e7/train/python)
 * `The Feast of Many Beasts` || [`The_Feast_of_Many_Beasts.py`  ](/Code-Py/The_Feast_of_Many_Beasts.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5aa736a455f906981800360d/train/python)
 * `Grasshopper - Summation` || [`Grasshopper_Summation.py`  ](/Code-Py/Grasshopper_Summation.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5aa736a455f906981800360d/train/python)
-
-
 * `Double Char` || [`Double_Char.py`  ](/Code-Py/Double_Char.py) Site [CodeWars, py  ](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/python)
-
 * `Break camelCase` || [`Break_camelCase.py`  ](/Code-Py/Break_camelCase.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5208f99aee097e6552000148/train/python)
-
 * `Transportation on vacation` || [`Transportation_on_vacation.py`  ](/Code-Py/Transportation_on_vacation.py) Site [CodeWars, py  ](https://www.codewars.com/kata/568d0dd208ee69389d000016/train/python)
-
 * `Find Maximum and Minimum Values of a List` || [`Find_Maximum_and_Minimum_Values_of_a_List.py`  ](/Code-Py/Find_Maximum_and_Minimum_Values_of_a_List.py) Site [CodeWars, py  ](https://www.codewars.com/kata/56b1f01c247c01db92000076/train/python)
-
 * `Keep up the hoop` || [`Keep_up_the_hoop.py`  ](/Code-Py/Keep_up_the_hoop.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/train/python)
+* `Highest and Lowest` || [`Highest_and_Lowest.py`  ](/Code-Py/Highest_and_Lowest.py) Site [CodeWars, py  ](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python)
+* `Grasshopper - Check for factor` || [`Grasshopper_Check_for_factor.py`  ](/Code-Py/Grasshopper_Check_for_factor.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/python)
+* `Count characters in your string` || [`Count_characters_in_your_string.py`  ](/Code-Py/Highest_and_Lowest.py) Site [CodeWars, py  ](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/python)
+* `Count by X` || [`Count_by_X.py`  ](/Code-Py/Count_by_X.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5513795bd3fafb56c200049e/train/python)
+* `Find the smallest integer in the array` || [`Find_the_smallest_integer_in_the_array.py`  ](/Code-Py/Count_by_X.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/python)
+* `L1: Set Alarm` || [`L1_Set_Alarm.py`  ](/Code-Py/L1_Set_Alarm.py) Site [CodeWars, py  ](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/python)
+* `Powers of 2` || [`Powers_of_2.py`  ](/Code-Py/Count_by_X.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/python)
+
 
