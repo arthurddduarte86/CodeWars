@@ -104,6 +104,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Are You Playing Banjo?` || [`Are_You_Playing_Banjo.py`  ](/Code-Py/Are_You_Playing_Banjo.py) Site [CodeWars, py  ](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/python)
 
+* `Grasshopper - Debug sayHello` || [`Grasshopper_Debug_sayHello.py`  ](/Code-Py/Grasshopper_Debug_sayHello.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5625618b1fe21ab49f00001f/train/python)
 
 
 
