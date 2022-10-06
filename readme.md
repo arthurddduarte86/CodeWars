@@ -90,3 +90,21 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Is it a palindrome?` || [`Is_it_a_palindrome.py`  ](/Code-Py/Is_it_a_palindrome.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/python)
 * `Simple multiplication` || [`Simple_multiplication.py`  ](/Code-Py/Simple_multiplication.py) Site [CodeWars, py  ](https://www.codewars.com/kata/583710ccaa6717322c000105/train/python)
 
+* `Will there be enough space?` || [`Will_there_be_enough_space.py`  ](/Code-Py/Will_there_be_enough_space.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5875b200d520904a04000003/train/python)
+
+* `Grasshopper - Personalized Message` || [`Grasshopper_Personalized_Message.py`  ](/Code-Py/Grasshopper_Personalized_Message.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5772da22b89313a4d50012f7/train/python)
+
+* `Convert a string to an array` || [`Convert_a_string_to_an_array.py`  ](/Code-Py/Convert_a_string_to_an_array.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/python)
+
+* `Sort array by string length` || [`Sort_array_by_string_length.py`  ](/Code-Py/Sort_array_by_string_length.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/train/python)
+
+* `Area or Perimeter` || [`Area_or_Perimeter.py`  ](/Code-Py/Area_or_Perimeter.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/python)
+
+* `Disemvowel Trolls` || [`Disemvowel_Trolls.py`  ](/Code-Py/Disemvowel_Trolls.py) Site [CodeWars, py  ](https://www.codewars.com/kata/52fba66badcd10859f00097e/train/python)
+
+* `Are You Playing Banjo?` || [`Are_You_Playing_Banjo.py`  ](/Code-Py/Are_You_Playing_Banjo.py) Site [CodeWars, py  ](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/python)
+
+
+
+
+
