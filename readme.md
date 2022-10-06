@@ -9,7 +9,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 # Kata
 ## Rank:8 kyu  Rank:7 kyu  Rank:6 kyu   
-**Total**: +80
+**Total**: +90
 
 * `Multiply` || [  multiply.py  ](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)
 * `Sentence Smash` || [  Sentence_Smash.py  ](https://github.com/arthurddduarte86/CodeWars/blob/main/Code-Py/Sentence_Smash.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/python)
@@ -105,6 +105,14 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Are You Playing Banjo?` || [`Are_You_Playing_Banjo.py`  ](/Code-Py/Are_You_Playing_Banjo.py) Site [CodeWars, py  ](https://www.codewars.com/kata/53af2b8861023f1d88000832/train/python)
 
 * `Grasshopper - Debug sayHello` || [`Grasshopper_Debug_sayHello.py`  ](/Code-Py/Grasshopper_Debug_sayHello.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5625618b1fe21ab49f00001f/train/python)
+
+* `Sort and Star` || [`Sort_and_Star.py`  ](/Code-Py/Sort_and_Star.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/python)
+
+* `N-th Power` || [`N-th_Power.py`  ](/Code-Py/N-th_Power.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57d814e4950d8489720008db/train/python)
+
+* `Invert values` || [`Invert_values.py`  ](/Code-Py/Invert_values.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/python)
+
+
 
 
 
