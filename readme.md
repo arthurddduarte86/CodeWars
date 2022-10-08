@@ -114,6 +114,8 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `String ends with?` || [`String_ends_with.py`  ](/Code-Py/String_ends_with.py) Site [CodeWars, py  ](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python)
 
+* `Beginner - Reduce but Grow` || [`Beginner_Reduce_but_Grow.py`  ](/Code-Py/Beginner_Reduce_but_Grow.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/python)
+
 
 
 
