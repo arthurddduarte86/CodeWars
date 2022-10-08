@@ -112,6 +112,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Invert values` || [`Invert_values.py`  ](/Code-Py/Invert_values.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/python)
 
+* `String ends with?` || [`String_ends_with.py`  ](/Code-Py/String_ends_with.py) Site [CodeWars, py  ](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/python)
 
 
 
