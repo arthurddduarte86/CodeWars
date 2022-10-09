@@ -116,7 +116,10 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Beginner - Reduce but Grow` || [`Beginner_Reduce_but_Grow.py`  ](/Code-Py/Beginner_Reduce_but_Grow.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/python)
 
+* `You only need one - Beginner` || [`You_only_need_one_Beginner.py`  ](/Code-Py/You_only_need_one_Beginner.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/python)
 
+* `Filter out the geese` || [`Filter_out_the_geese.py`  ](/Code-Py/Filter_out_the_geese.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/python)
 
+* `Is it even?` || [`Is_it_even.py`  ](/Code-Py/Is_it_even.py) Site [CodeWars, py  ](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/python)
 
 
