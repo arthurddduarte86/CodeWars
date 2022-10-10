@@ -122,4 +122,5 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Is it even?` || [`Is_it_even.py`  ](/Code-Py/Is_it_even.py) Site [CodeWars, py  ](https://www.codewars.com/kata/555a67db74814aa4ee0001b5/train/python)
 
+* `Sum The Strings` || [`Sum_The_Strings.py`  ](/Code-Py/Sum_The_Strings.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/python)
 
