@@ -124,3 +124,6 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Sum The Strings` || [`Sum_The_Strings.py`  ](/Code-Py/Sum_The_Strings.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/python)
 
+* `Quarter of the year` || [`Quarter_of_the_year.py`  ](/Code-Py/Quarter_of_the_year.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/python)
+
+* `Remove anchor from URL` || [`Remove_anchor_from_URL.py`  ](/Code-Py/Remove_anchor_from_URL.py) Site [CodeWars, py  ](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/python)
