@@ -129,3 +129,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Remove anchor from URL` || [`Remove_anchor_from_URL.py`  ](/Code-Py/Remove_anchor_from_URL.py) Site [CodeWars, py  ](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/train/python)
 
 * `What's the real floor?` || [`Whats_the_real_floor.py`  ](/Code-Py/Whats_the_real_floor.py) Site [CodeWars, py  ](https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/python)
+
+* `Descending Order` || [`Descending_Order.py`  ](/Code-Py/Descending_Order.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python)
+
+* `Switch/Case - Bug Fixing #6` || [`Switch_Case_Bug_Fixing_6.py`  ](/Code-Py/Switch_Case_Bug_Fixing_6.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/python)
