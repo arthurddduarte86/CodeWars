@@ -133,3 +133,9 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Descending Order` || [`Descending_Order.py`  ](/Code-Py/Descending_Order.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/python)
 
 * `Switch/Case - Bug Fixing #6` || [`Switch_Case_Bug_Fixing_6.py`  ](/Code-Py/Switch_Case_Bug_Fixing_6.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55c933c115a8c426ac000082/train/python)
+
+* `Find the stray number` || [`Find_the_stray_number.py`  ](/Code-Py/Find_the_stray_number.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57f609022f4d534f05000024/train/python)
+
+* `Twice as old` || [`Twice_as_old.py`  ](/Code-Py/Twice_as_old.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/python)
+
+* `Reverse List Order` || [`Reverse_List_Order.py`  ](/Code-Py/Reverse_List_Order.py) Site [CodeWars, py  ](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/train/python)
