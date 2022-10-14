@@ -139,3 +139,9 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Twice as old` || [`Twice_as_old.py`  ](/Code-Py/Twice_as_old.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/python)
 
 * `Reverse List Order` || [`Reverse_List_Order.py`  ](/Code-Py/Reverse_List_Order.py) Site [CodeWars, py  ](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b/train/python)
+
+* `Grasshopper - Terminal game move function` || [`Grasshopper_Terminal_game_move_function.py`  ](/Code-Py/Grasshopper_Terminal_game_move_function.py) Site [CodeWars, py  ](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2/train/python)
+
+* `Two to One` || [`Two_to_One.py`  ](/Code-Py/Two_to_One.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python)
+
+* `You Can't Code Under Pressure #1` || [`You_Can't_Code_Under_Pressure_1.py`  ](/Code-Py/You_Can't_Code_Under_Pressure_1.py) Site [CodeWars, py  ](https://www.codewars.com/kata/53ee5429ba190077850011d4/train/python)

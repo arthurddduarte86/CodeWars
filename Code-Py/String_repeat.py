@@ -5,11 +5,17 @@ Examples (input -> output)
 6, "I"     -> "IIIIII"
 5, "Hello" -> "HelloHelloHelloHelloHello"
 
-'''
+
 #
 #
 #
 def repeat_str(repeat, string):
     return repeat * string
 #
-#
+#'''
+from time import sleep
+x=0
+while True:
+    print(x)
+    #sleep(0.01)
+    x+=1
