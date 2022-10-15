@@ -145,3 +145,5 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `Two to One` || [`Two_to_One.py`  ](/Code-Py/Two_to_One.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python)
 
 * `You Can't Code Under Pressure #1` || [`You_Can't_Code_Under_Pressure_1.py`  ](/Code-Py/You_Can't_Code_Under_Pressure_1.py) Site [CodeWars, py  ](https://www.codewars.com/kata/53ee5429ba190077850011d4/train/python)
+
+* `Name Shuffler` || [`Name_Shuffler.py`  ](/Code-Py/Name_Shuffler.py) Site [CodeWars, py  ](https://www.codewars.com/kata/559ac78160f0be07c200005a/train/python)
