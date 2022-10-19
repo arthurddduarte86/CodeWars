@@ -147,3 +147,18 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 * `You Can't Code Under Pressure #1` || [`You_Can't_Code_Under_Pressure_1.py`  ](/Code-Py/You_Can't_Code_Under_Pressure_1.py) Site [CodeWars, py  ](https://www.codewars.com/kata/53ee5429ba190077850011d4/train/python)
 
 * `Name Shuffler` || [`Name_Shuffler.py`  ](/Code-Py/Name_Shuffler.py) Site [CodeWars, py  ](https://www.codewars.com/kata/559ac78160f0be07c200005a/train/python)
+
+* `Function 2 - squaring an argument` || [`Function_2_squaring_an_argument.py`  ](/Code-Py/Function_2_squaring_an_argument.py) Site [CodeWars, py  ](https://www.codewars.com/kata/523b623152af8a30c6000027/train/python)
+
+* `get character from ASCII Value` || [`get_character_from_ASCII_Value.py`  ](/Code-Py/get_character_from_ASCII_Value.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55ad04714f0b468e8200001c/train/python)
+
+* `Remove String Spaces` || [`Remove_String_Spaces.py`  ](/Code-Py/Remove_String_Spaces.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/python)
+
+* `Calculate average` || [`Calculate_average.py`  ](/Code-Py/Calculate_average.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/python)
+
+* `Volume of a Cuboid` || [`Volume_of_a_Cuboid.py`  ](/Code-Py/Volume_of_a_Cuboid.py) Site [CodeWars, py  ](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/python)
+
+
+
+
+
