@@ -9,7 +9,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 # Kata
 ## Rank:8 kyu  Rank:7 kyu  Rank:6 kyu   
-**Total**: +100
+**Total**: +113
 
 * `Multiply` || [  multiply.py  ](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)
 * `Sentence Smash` || [  Sentence_Smash.py  ](https://github.com/arthurddduarte86/CodeWars/blob/main/Code-Py/Sentence_Smash.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/python)
