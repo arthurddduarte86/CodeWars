@@ -158,6 +158,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Volume of a Cuboid` || [`Volume_of_a_Cuboid.py`  ](/Code-Py/Volume_of_a_Cuboid.py) Site [CodeWars, py  ](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/python)
 
+* `Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence` || [`Exclamation_marks_series_11_Replace_all_vowel_to_exclamation_mark_in_the_sentence.py`  ](/Code-Py/Exclamation_marks_series_11_Replace_all_vowel_to_exclamation_mark_in_the_sentence.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/train/python)
 
 
 

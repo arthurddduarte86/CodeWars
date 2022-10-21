@@ -22,3 +22,11 @@ def count(string):
 #
 #
 #
+def count(string):
+    count_Letters={}
+    for char in string:
+        if char in count_Letters: count_Letters[char] +=1
+        else: count_Letters[char]=1
+    return count_Letters.copy()
+#
+#

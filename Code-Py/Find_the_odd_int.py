@@ -14,3 +14,17 @@ Examples
 def find_it(seq):
     for iterator in seq:
         if seq.count(iterator)%2 == 1: return iterator
+#
+#
+#
+from collections import Counter
+def find_it(seq):
+    counter = Counter(seq)
+    for element, value in counter.items():
+        if value%2 == 1: return element
+#
+#
+#
+
+
+
