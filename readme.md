@@ -160,6 +160,13 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence` || [`Exclamation_marks_series_11_Replace_all_vowel_to_exclamation_mark_in_the_sentence.py`  ](/Code-Py/Exclamation_marks_series_11_Replace_all_vowel_to_exclamation_mark_in_the_sentence.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/train/python)
 
+* `Exclusive "or" (xor) Logical Operator` || [`Exclusive_or_(xor)_Logical_Operator.py`  ](/Code-Py/Exclusive_or_(xor)_Logical_Operator.py) Site [CodeWars, py  ](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/train/python)
+
+* `Form The Minimum` || [`Form_The_Minimum.py`  ](/Code-Py/Form_The_Minimum.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/train/python)
+
+
+
+
 
 
 
