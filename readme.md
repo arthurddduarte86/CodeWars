@@ -9,7 +9,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 # Kata
 ## Rank:8 kyu  Rank:7 kyu  Rank:6 kyu   
-**Total**: +113
+**Total**: +119
 
 * `Multiply` || [  multiply.py  ](https://github.com/arthurddduarte86/CodeWars-Py/blob/main/Code-Py/Multiply.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/50654ddff44f800200000004/train/python)
 * `Sentence Smash` || [  Sentence_Smash.py  ](https://github.com/arthurddduarte86/CodeWars/blob/main/Code-Py/Sentence_Smash.py)  Site [CodeWars, py  ](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/python)
@@ -164,8 +164,11 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Form The Minimum` || [`Form_The_Minimum.py`  ](/Code-Py/Form_The_Minimum.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5ac6932b2f317b96980000ca/train/python)
 
+* `Rot13` || [`Rot13.py`  ](/Code-Py/Rot13.py) Site [CodeWars, py  ](https://www.codewars.com/kata/530e15517bc88ac656000716/train/python)
 
+* `Hello, Name or World!` || [`RoHello_Name_or_World.py`  ](/Code-Py/RoHello_Name_or_World.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/python)
 
+* `Student's Final Grade` || [`Students_Final_Grade.py`  ](/Code-Py/Students_Final_Grade.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/python)
 
 
 
