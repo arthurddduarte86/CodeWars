@@ -172,5 +172,9 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Total amount of points` || [`Total_amount_of_points.py`  ](/Code-Py/Total_amount_of_points.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5bb904724c47249b10000131/train/python)
 
+* `Super Duper Easy` || [`Super_Duper_Easy.py`  ](/Code-Py/Super_Duper_Easy.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55a5bfaa756cfede78000026/train/python)
+
+* `Beginner Series #1 School Paperwork` || [`Beginner_Series_1_School_Paperwork.py`  ](/Code-Py/Beginner_Series_1_School_Paperwork.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/python)
+
 
 
