@@ -170,6 +170,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Student's Final Grade` || [`Students_Final_Grade.py`  ](/Code-Py/Students_Final_Grade.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/python)
 
+* `Total amount of points` || [`Total_amount_of_points.py`  ](/Code-Py/Total_amount_of_points.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5bb904724c47249b10000131/train/python)
 
 
 
