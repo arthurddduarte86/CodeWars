@@ -176,5 +176,6 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Beginner Series #1 School Paperwork` || [`Beginner_Series_1_School_Paperwork.py`  ](/Code-Py/Beginner_Series_1_School_Paperwork.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/python)
 
+* `Bin to Decimal` || [`Bin_to_Decimal.py`  ](/Code-Py/Bin_to_Decimal.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/train/python)
 
 
