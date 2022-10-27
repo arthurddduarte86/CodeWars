@@ -178,4 +178,10 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Bin to Decimal` || [`Bin_to_Decimal.py`  ](/Code-Py/Bin_to_Decimal.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/train/python)
 
+* `Grasshopper - Basic Function Fixer` || [`Grasshopper_Basic_Function_Fixer.py`  ](/Code-Py/Grasshopper_Basic_Function_Fixer.py) Site [CodeWars, py  ](https://www.codewars.com/kata/56200d610758762fb0000002/train/python)
+
+* `Correct the mistakes of the character recognition software` || [`Correct_the_mistakes_of_the_character_recognition_software.py`  ](/Code-Py/Correct_the_mistakes_of_the_character_recognition_software.py) Site [CodeWars, py  ](https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/python)
+
+
+
 
