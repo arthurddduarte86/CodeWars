@@ -182,6 +182,11 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Correct the mistakes of the character recognition software` || [`Correct_the_mistakes_of_the_character_recognition_software.py`  ](/Code-Py/Correct_the_mistakes_of_the_character_recognition_software.py) Site [CodeWars, py  ](https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/python)
 
+* `Simple Fun #176: Reverse Letter` || [`Simple_Fun_176_Reverse_Letter.py`  ](/Code-Py/Simple_Fun_176_Reverse_Letter.py) Site [CodeWars, py  ](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b/train/python)
+
+* `Multiplication table for number` || [`Multiplication_table_for_number.py`  ](/Code-Py/Multiplication_table_for_number.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/python)
+
+
 
 
 
