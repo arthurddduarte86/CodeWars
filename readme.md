@@ -201,6 +201,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Factorial` || [`Factorial.py`  ](/Outros-py/Factorial.py) || `Cálculo de Fatorial com métodos diferentes, cálculo com cache (functools, reduce, lru_cache)`
 
+* `*args  e  **kwargs` || [`args_kwargs.py`  ](/Outros-py/args_kwargs.py) || `Sobre *args e **kwargs, parametros de funções`
 
 
 
