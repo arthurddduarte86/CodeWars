@@ -186,7 +186,9 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Multiplication table for number` || [`Multiplication_table_for_number.py`  ](/Code-Py/Multiplication_table_for_number.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/python)
 
+* `Alternate capitalization` || [`Alternate_capitalization.py`  ](/Code-Py/Alternate_capitalization.py) Site [CodeWars, py  ](https://www.codewars.com/kata/59cfc000aeb2844d16000075/train/python)
 
+* `Fix string case` || [`Fix_string_case.py`  ](/Code-Py/Fix_string_case.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/python)
 
 
 
