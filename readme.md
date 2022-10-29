@@ -199,7 +199,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 ## Outros algoritmos
 
-* `Factorial` || [`Factorial.py`  ](/Outros-py/Factorial.py) || `Cálculo de Fatorial com métodos diferentes, cálculo com cache (functools, reduce, lru_cache)`
+* `Factorial` || [`Factorial.py`  ](/Outros-py/factorial.py) || `Cálculo de Fatorial com métodos diferentes, cálculo com cache (functools, reduce, lru_cache)`
 
 * `*args  e  **kwargs` || [`args_kwargs.py`  ](/Outros-py/args_kwargs.py) || `Sobre *args e **kwargs, parametros de funções`
 
