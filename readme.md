@@ -192,3 +192,15 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 
 
+
+
+
+
+
+## Outros algoritmos
+
+* `Factorial` || [`Factorial.py`  ](/Outros-py/Factorial.py) || `Cálculo de Fatorial com métodos diferentes, cálculo com cache (functools, reduce, lru_cache)`
+
+
+
+
