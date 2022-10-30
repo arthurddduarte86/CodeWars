@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Code-Py/Beginner_Series_#4_Cockroach.py
 '''
 The cockroach is one of the fastest insects. Write a function which takes its speed in km per hour and returns it in cm per second, rounded down to the integer (= floored).
 
@@ -10,24 +9,5 @@ Note! The input is a Real number (actual type is language dependent) and is >= 0
 
 divisão por // é o floored, arredondamento pra baixo
 '''
+
 def cockroach_speed(s): return round(s//0.036)
-=======
-'''
-The cockroach is one of the fastest insects. Write a function which takes its speed in km per hour and returns it in cm per second, rounded down to the integer (= floored).
-
-For example:
-
-1.08 --> 30
-Note! The input is a Real number (actual type is language dependent) and is >= 0. The result should be an Integer.
-
-
-divisão por // é o floored, arredondamento pra baixo
-'''
-def cockroach_speed(s): return round(s//0.036)
-
-
-
-
-
-
->>>>>>> refs/remotes/origin/main:Code-Py/Beginner_Series__4_Cockroach.py
