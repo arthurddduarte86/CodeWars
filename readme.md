@@ -190,8 +190,11 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Fix string case` || [`Fix_string_case.py`  ](/Code-Py/Fix_string_case.py) Site [CodeWars, py  ](https://www.codewars.com/kata/5b180e9fedaa564a7000009a/train/python)
 
+* `Convert to Binary` || [`Convert_to_Binary.py`  ](/Code-Py/Convert_to_Binary.py) Site [CodeWars, py  ](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/train/python)
 
+* `Hex to Decimal` || [`Hex_to_Decimal.py`  ](/Code-Py/Hex_to_Decimal.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57a4d500e298a7952100035d/train/python)
 
+* `Beginner - Lost Without a Map` || [`Beginner_Lost_Without_a_Map.py`  ](/Code-Py/Beginner_Lost_Without_a_Map.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/python)
 
 
 
