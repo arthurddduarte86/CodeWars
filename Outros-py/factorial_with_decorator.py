@@ -1,6 +1,9 @@
 from functools import reduce, lru_cache
 from operator import mul
-
+# abaixo parametros pra aumentar o limite do número inteiro que vc fornecer
+from sys import set_int_max_str_digits
+set_int_max_str_digits(6400001)
+#
 
 def factorial_checks(func):
     def verify(number):
