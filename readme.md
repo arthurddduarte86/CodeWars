@@ -206,5 +206,15 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `*args  e  **kwargs` || [`args_kwargs.py`  ](/Outros-py/args_kwargs.py) || `Sobre *args e **kwargs, parametros de funções`
 
+* `Código + execution time` || [`code_time.py`  ](/Outros-py/code_time.py) || `Execução de um código e medição do tempo de execução`
+
+* `Decorator` || [`decorator.py`  ](/Outros-py/decorator.py) || `Exemplo de código com decorator`
+
+* `Fatorial com decorator` || [`factorial_with_decorator.py`  ](/Outros-py/factorial_with_decorator.py) || `Exemplo de código cáclulo fatorial com decorator`
+
+* `Find unique element in list` || [`find_unique_in_list.py`  ](/Outros-py/find_unique_in_list.py) || `Exemplo de código + tempo de execução`
+
+* `Hashing SHA256 e SHA512` || [`hashing.py`  ](/Outros-py/hashing.py) || `Exemplo de código`
+
 
 
