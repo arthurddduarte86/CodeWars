@@ -5,7 +5,7 @@ def check(func):
         if b == 0:
             print("Não é possível divisão por 0")
             
-        func(a, b)
+        else: func(a, b)
     return inside
 
 
