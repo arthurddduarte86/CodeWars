@@ -26,3 +26,23 @@ def count_by(x, n):
 #
 def count_by(x, n):
     return [i * x for i in range(1, n + 1)]
+#
+#
+def count_by(x, n):
+    sequency_list=[]
+    counter=1
+    y=x
+    while counter <=n:
+        sequency_list.append(y)
+        y+=x
+        counter+=1
+    return sequency_list
+#
+#
+#
+def count_by(x, n):
+    arr = []
+    for num in range(1, n+1):
+        result = x * num
+        arr.append(result)
+    return arr

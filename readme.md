@@ -196,6 +196,7 @@ Welcome, here you find code challenges for Python language from CodeWars.com
 
 * `Beginner - Lost Without a Map` || [`Beginner_Lost_Without_a_Map.py`  ](/Code-Py/Beginner_Lost_Without_a_Map.py) Site [CodeWars, py  ](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/python)
 
+* `What is between?` || [`What_is_between.py`  ](/Code-Py/What_is_between.py) Site [CodeWars, py  ](https://www.codewars.com/kata/55ecd718f46fba02e5000029/train/python)
 
 
 

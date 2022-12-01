@@ -15,3 +15,6 @@ Since we cannot define keywords in Javascript (well, at least I don't know how t
 
 def xor(a,b):
     return a ^ b
+
+
+def xor(a,b): return a!=b
