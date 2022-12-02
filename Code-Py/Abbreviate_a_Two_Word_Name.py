@@ -12,3 +12,9 @@ patrick feeney => P.F
 def abbrev_name(name):
     listaname= name.split()
     return (".".join(i[0] for i in listaname)).upper()
+
+
+def abbrev_name(name):
+    listOfNames = name.split()
+    return ".".join(indexName[0].upper() for indexName in listOfNames)
+
