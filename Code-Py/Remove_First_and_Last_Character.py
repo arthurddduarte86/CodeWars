@@ -4,3 +4,5 @@ It's pretty straightforward. Your goal is to create a function that removes the 
 def remove_char(s):
     return s[1:-1]
 
+def remove_char(s):
+    return s[1:len(s)-1]
