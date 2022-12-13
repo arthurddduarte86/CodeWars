@@ -21,3 +21,4 @@ def to_alternating_case(string):
     return newString
 #
 #
+def to_alternating_case(string): return string.swapcase()
