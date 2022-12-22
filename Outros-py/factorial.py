@@ -11,7 +11,7 @@ def factorial(number:int, factorial=1):
     else: 
         for n in range(1, number+1):
             factorial *= n
-    return factorial
+    return factorial 
 # chamando a função
 print(factorial(4))
 
