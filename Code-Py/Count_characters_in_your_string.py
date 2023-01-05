@@ -30,3 +30,10 @@ def count(string):
     return count_Letters.copy()
 #
 #
+def count(string):
+    count = {}
+    #if string == '': return {}
+    for letter in string:
+        if letter in count: count[letter]+=1
+        else: count[letter]=1
+    return count
