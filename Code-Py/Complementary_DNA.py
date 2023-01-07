@@ -46,3 +46,7 @@ def DNA_strand(dna):
 #
 >>>>>>> refs/remotes/origin/main
 #
+def DNA_strand(dna):
+    mytable = dna.maketrans("ATCG", "TAGC") #tabela de substituição {A por T}, {T por A}, {C por G}, {G por C}
+    return dna.translate(mytable)
+    
